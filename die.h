@@ -1,13 +1,6 @@
 #ifndef __DIE_H
 #define __DIE_H
 
-#include <iostream>
-#include <cstdio>
-#include <cstdlib>
-#include <string>
-#include <sstream>
-#include <ctime>
-#include <vector>
 using namespace std;
 
 class Die

@@ -1,7 +1,7 @@
 #include <iostream>
-#include <vector>
-#include <ctime>
+
 #include "die.h"
+
 using namespace std;
 
 Die::Die(int faces, int value, int roll) : _faces{faces}, _value{value}

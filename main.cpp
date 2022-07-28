@@ -1,11 +1,8 @@
 #include <iostream>
-#include <cstdio>
-#include <cstdlib>
 #include <string>
-#include <sstream>
-#include <ctime>
-#include <vector>
+
 #include "die.h"
+
 using namespace std;
 
 int main ()
